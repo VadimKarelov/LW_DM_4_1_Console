@@ -1,0 +1,15 @@
+D:\University\2 year\DiscreteMath\LW_DM_2_4_1_Console\LW_DM_2_4_1_Console\bin\Debug\net6.0\LW_DM_2_4_1_Console.exe
+D:\University\2 year\DiscreteMath\LW_DM_2_4_1_Console\LW_DM_2_4_1_Console\bin\Debug\net6.0\LW_DM_2_4_1_Console.deps.json
+D:\University\2 year\DiscreteMath\LW_DM_2_4_1_Console\LW_DM_2_4_1_Console\bin\Debug\net6.0\LW_DM_2_4_1_Console.runtimeconfig.json
+D:\University\2 year\DiscreteMath\LW_DM_2_4_1_Console\LW_DM_2_4_1_Console\bin\Debug\net6.0\LW_DM_2_4_1_Console.dll
+D:\University\2 year\DiscreteMath\LW_DM_2_4_1_Console\LW_DM_2_4_1_Console\bin\Debug\net6.0\ref\LW_DM_2_4_1_Console.dll
+D:\University\2 year\DiscreteMath\LW_DM_2_4_1_Console\LW_DM_2_4_1_Console\bin\Debug\net6.0\LW_DM_2_4_1_Console.pdb
+D:\University\2 year\DiscreteMath\LW_DM_2_4_1_Console\LW_DM_2_4_1_Console\obj\Debug\net6.0\LW_DM_2_4_1_Console.csproj.AssemblyReference.cache
+D:\University\2 year\DiscreteMath\LW_DM_2_4_1_Console\LW_DM_2_4_1_Console\obj\Debug\net6.0\LW_DM_2_4_1_Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\2 year\DiscreteMath\LW_DM_2_4_1_Console\LW_DM_2_4_1_Console\obj\Debug\net6.0\LW_DM_2_4_1_Console.AssemblyInfoInputs.cache
+D:\University\2 year\DiscreteMath\LW_DM_2_4_1_Console\LW_DM_2_4_1_Console\obj\Debug\net6.0\LW_DM_2_4_1_Console.AssemblyInfo.cs
+D:\University\2 year\DiscreteMath\LW_DM_2_4_1_Console\LW_DM_2_4_1_Console\obj\Debug\net6.0\LW_DM_2_4_1_Console.csproj.CoreCompileInputs.cache
+D:\University\2 year\DiscreteMath\LW_DM_2_4_1_Console\LW_DM_2_4_1_Console\obj\Debug\net6.0\LW_DM_2_4_1_Console.dll
+D:\University\2 year\DiscreteMath\LW_DM_2_4_1_Console\LW_DM_2_4_1_Console\obj\Debug\net6.0\ref\LW_DM_2_4_1_Console.dll
+D:\University\2 year\DiscreteMath\LW_DM_2_4_1_Console\LW_DM_2_4_1_Console\obj\Debug\net6.0\LW_DM_2_4_1_Console.pdb
+D:\University\2 year\DiscreteMath\LW_DM_2_4_1_Console\LW_DM_2_4_1_Console\obj\Debug\net6.0\LW_DM_2_4_1_Console.genruntimeconfig.cache
